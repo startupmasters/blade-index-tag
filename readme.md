@@ -3,8 +3,7 @@
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-This is where your description should go. Take a look at [contributing.md](contributing.md) to see a to do list.
-
+With this package you can use the custom @index directive in blade. If your application is not in production environment it will automatically add noindex meta tag in the <head> of your app.
 ## Installation
 
 Via Composer
@@ -14,6 +13,8 @@ $ composer require startupmasters/bladeindextag
 ```
 
 ## Usage
+
+In the head of your app you must use the directive @index.
 
 ## Change log
 
@@ -42,14 +43,12 @@ If you discover any security related issues, please email author email instead o
 
 license. Please see the [license file](license.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/alexievbgn/bladeindextag.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/alexievbgn/bladeindextag.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/startupmasters/bladeindextag.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/startupmasters/bladeindextag.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/alexievbgn/bladeindextag/master.svg?style=flat-square
 [ico-styleci]: https://styleci.io/repos/12345678/shield
 
-[link-packagist]: https://packagist.org/packages/alexievbgn/bladeindextag
-[link-downloads]: https://packagist.org/packages/alexievbgn/bladeindextag
-[link-travis]: https://travis-ci.org/alexievbgn/bladeindextag
-[link-styleci]: https://styleci.io/repos/12345678
-[link-author]: https://github.com/alexievbgn
+[link-packagist]: https://packagist.org/packages/startupmasters/bladeindextag
+[link-downloads]: https://packagist.org/packages/startupmasters/bladeindextag
+[link-author]: https://startup-masters.com
 [link-contributors]: ../../contributors
