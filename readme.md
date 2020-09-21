@@ -40,7 +40,7 @@ If you discover any security related issues, please email author email instead o
 
 ## License
 
-license. Please see the [license file](license.md) for more information.
+ Please see the [license file](license.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/startupmasters/bladeindextag.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/startupmasters/bladeindextag.svg?style=flat-square
