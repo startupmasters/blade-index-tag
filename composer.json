@@ -20,12 +20,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Alexievbgn\\BladeIndexTag\\": "src/"
+            "Startupmasters\\BladeIndexTag\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Alexievbgn\\BladeIndexTag\\Tests\\": "tests"
+            "Startupmasters\\BladeIndexTag\\Tests\\": "tests"
         }
     },
     "extra": {
