@@ -17,10 +17,10 @@ class BladeIndexTagServiceProvider extends ServiceProvider
 
         Blade::directive('index', function () {
             if (config('app.env') != 'production') {
-                return '<meta name="googlebot" content="noindex" />';
+                return '<meta name="robots" content="noindex, nofollow" />';
             }
 
-            return '';
+            return '<meta name="robots" content="index, follow" />';
 
         });
 
