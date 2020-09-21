@@ -44,7 +44,7 @@ license. Please see the [license file](license.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/startupmasters/bladeindextag.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/startupmasters/bladeindextag.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/alexievbgn/bladeindextag/master.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/startupmasters/bladeindextag/master.svg?style=flat-square
 [ico-styleci]: https://styleci.io/repos/12345678/shield
 
 [link-packagist]: https://packagist.org/packages/startupmasters/bladeindextag
