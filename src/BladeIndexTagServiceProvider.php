@@ -16,7 +16,8 @@ class BladeIndexTagServiceProvider extends ServiceProvider
     {
 
         Blade::directive('index', function () {
-            if (config('app.env') != 'production') {
+
+            if (config('app.env') != config('bladeindextag.envname')) {
                 return '<meta name="robots" content="noindex, nofollow" />';
             }
 
