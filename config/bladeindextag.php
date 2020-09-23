@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'envname' => 'production1'
+    'envname' => 'production' // Name of the production environment
 ];
